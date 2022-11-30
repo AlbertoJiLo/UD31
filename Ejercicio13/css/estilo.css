@@ -1,0 +1,14 @@
+
+div{
+    height:20px;
+    width: 100px;
+    text-align: center;
+}
+
+p{
+    background-color:rgb(167, 255, 80);
+}
+
+th{
+    border: 1px solid;
+}
